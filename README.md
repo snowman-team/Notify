@@ -6,10 +6,6 @@ Make it easier to use notification with different styles in different Android ve
 ## Installation
 
 ```groovy
-repositories {
-    maven { url "https://xueqiumobile.bintray.com/maven" }
-}
-
 dependencies {
     // add dependency, please replace x.y.z to the latest version
     implementation "com.xueqiu.notify:notify:x.y.z"
